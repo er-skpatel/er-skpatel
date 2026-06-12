@@ -1,4 +1,4 @@
-# Hello! 👋😊 Namaste! 🙏 I'm Sandeep 👋
+# Hello! 👋😊 Namaste! 🙏 I'm Sandeep Kumar Patel 👋
 
 <!--
 **er-skpatel/er-skpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
